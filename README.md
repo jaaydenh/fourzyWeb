@@ -1,2 +1,2 @@
 # fourzyWeb
-Website for Fourzy Game at https://fourzygame.com
+Website for Fourzy iOS and Android Game at https://fourzygame.com
